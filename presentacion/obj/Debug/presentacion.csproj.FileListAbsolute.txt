@@ -1,0 +1,16 @@
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\bin\Debug\presentacion.exe
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\bin\Debug\presentacion.pdb
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.exe
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.pdb
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.frmAgregarArticulo.resources
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.frmListarArticulos.resources
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\bin\Debug\dominio.dll
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\bin\Debug\negocio.dll
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\bin\Debug\dominio.pdb
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\bin\Debug\negocio.pdb
+C:\Users\Gonzalo Peña\Desktop\TPFinalNivel2_PeñaFranco\presentacion\obj\Debug\presentacion.csproj.CopyComplete
